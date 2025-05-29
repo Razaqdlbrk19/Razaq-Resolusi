@@ -1,5 +1,6 @@
-1.Belajar Java script untuk modal dasar
-*OOP
-*Asyncronus
-2.setelah itu kita belajar solidity
-3.belajar react
+1.dasar blockchain dan web3
+2.belajar solidity
+3.belajar front end js dan react
+4.integrasi blockchain
+5.testing dan debugging
+6.deploy dan launching
