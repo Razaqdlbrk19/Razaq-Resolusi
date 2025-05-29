@@ -1,0 +1,5 @@
+1.Belajar Java script untuk modal dasar
+*OOP
+*Asyncronus
+2.setelah itu kita belajar solidity
+3.belajar react
