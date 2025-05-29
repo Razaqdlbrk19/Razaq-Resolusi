@@ -2,4 +2,6 @@
 *OOP
 *Asyncronus
 2.setelah itu kita belajar solidity
+^belajar dasar blockhain 
+^belajar menggunakan tools untuk membuat code nya
 3.belajar react
